@@ -65,24 +65,7 @@
 .header-img{
 width: 100%;
 }
-
-/* Featured section style */
-
-/* .feature-image{
-    width: 464px;
-    height: 535px;
-    display: inline-block;
-    background-color: #A7216226;
-    border-top-left-radius: 300px;
-    border-top-right-radius: 300px;
-}
-
-/* .feature .feature-images{
-    display: flex;
-    justify-content: space-around;
-} */ 
-
-
+ 
 /* Hot Deal section style */
 
 .hot-deal{
@@ -140,6 +123,8 @@ input[type="text"]{
     margin-right: 15px;
 }
 .sub-email{
+    display: flex;
+    justify-content: center;
     width: 100%;
     padding-bottom: 121px;
     margin: 30px 50px 50px 50px;
